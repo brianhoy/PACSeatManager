@@ -1,0 +1,47 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0_45\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-4.8.2.jar;C:\Program Files\BlueJ\lib\userlib\gridworld.jar;\\MTPS-dc4\brianhoy$\PAC
+-d
+\\MTPS-dc4\brianhoy$\PAC\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+\\MTPS-dc4\brianhoy$\PAC\SeatingData.java
+<---- end of javadoc command ---->
+Loading source file \\MTPS-dc4\brianhoy$\PAC\SeatingData.java...
+Constructing Javadoc information...
+\\MTPS-dc4\brianhoy$\PAC\SeatingData.java:8: error: cannot find symbol
+    private ArrayList<Seat> seatList;
+            ^
+  symbol:   class ArrayList
+  location: class SeatingData
+Standard Doclet version 1.7.0_45
+Building tree for all the packages and classes...
+Generating \\MTPS-dc4\brianhoy$\PAC\doc\SeatingData.html...
+Generating \\MTPS-dc4\brianhoy$\PAC\doc\package-frame.html...
+Generating \\MTPS-dc4\brianhoy$\PAC\doc\package-summary.html...
+Generating \\MTPS-dc4\brianhoy$\PAC\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating \\MTPS-dc4\brianhoy$\PAC\doc\allclasses-frame.html...
+Generating \\MTPS-dc4\brianhoy$\PAC\doc\allclasses-noframe.html...
+Generating \\MTPS-dc4\brianhoy$\PAC\doc\index.html...
+Generating \\MTPS-dc4\brianhoy$\PAC\doc\stylesheet.css...
+1 warning
